@@ -3,9 +3,9 @@ $from_connectionString = 'Data source=SERVER_IP;Database=DB_NAME;Uid=USERNAME;Pw
 $to_connectionString = 'Data source=SERVER_IP;Database=DB_NAME;Uid=USERNAME;Pwd=PASSWORD;Pooling=true;Min Pool Size=2;Max Pool Size=1000;MultipleActiveResultSets=true;'
 
 $storedProceduresAndFunctions = @(
-
-'YOUR SP NAME'
-
+'SP_TEST1',
+'SP_TEST2',
+'SP_TEST3',
 )
 
 
